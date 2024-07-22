@@ -64,7 +64,7 @@ FastNEAR wrote a great tweet about how they don't believe there should exist fre
 
 
 13. **Smallest NEAR contract:**
-An account with a proxy contract deployed for less than 0.02 NEAR! This is what the FastNEAR team cooked up on Friday. Vlad Frolov also shared a contract that transfers NEAR that compiles to just 916 bytes. Can you create a smaller contract? 👉 [LINK](https://x.com/fast_near/status/1814446732450689324)
+An account with a proxy contract deployed for less than 0.02 NEAR! This is what the FastNEAR team cooked up on Friday. Vlad Frolov also shared a contract, that uses the [nesdie SDK](https://github.com/austinabell/nesdie), that transfers NEAR that compiles to just 916 bytes. Can you create a smaller contract? 👉 [LINK](https://x.com/fast_near/status/1814446732450689324)
 
 
 ### In case you missed it 
