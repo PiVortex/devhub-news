@@ -1,7 +1,7 @@
 **Welcome to the latest edition of NEAR Dev NEWS!**
 
 
-We put together updates for you on a weekly basis to support your development. If that's the sort of stuff you're looking for, hit the [subscribe](https://neardevhub.us21.list-manage.com/subscribe?u=24aee19c18def43a73854f24d&id=c38bf6663b) button!
+We put together updates for you on a weekly basis to support your development. If that's the sort of stuff you're looking for, hit the [subscribe](https://newsletter.neardevhub.org/) button!
 
 
 This week, we bring you a roundup of updates designed to enhance your development experience with NEAR. From stateless validation to Ethereum alignment, let's dive in!
